@@ -1,18 +1,19 @@
-# ETHExplorer V2 based off github.com/etherparty/explorer
+# Ethereum Network Explorer
+based off [etherparty](github.com/etherparty/explorer) and [Carsen Klock](https://github.com/carsenk/explorer)
 
 ![ETHExplorer V2 Screenshot](http://i.imgur.com/wgROAS9.png)
 
 ##License
 
-The code in this branch is licensed under GPLv3 (see LICENSE file)
+The code is licensed under GPLv3 (see LICENSE file)
 
-Feel free to modify or reuse the code here.
+Feel free to modify or reuse the code.
 
 ##Reddit
 
-Discuss this project at: [Reddit Page on /r/ethreum](https://www.reddit.com/r/ethereum/comments/511j5a/new_ethereum_block_explorer_heavily_updated/)
+Discuss this project at: [Reddit Page on /r/ethereum](https://www.reddit.com/r/ethereum/comments/511j5a/new_ethereum_block_explorer_heavily_updated/)
 
-##Donations
+##Donations to Carsen Klock
 
 ETH Address: 0xee298ae561bD7BE6e1040AFf281202E0b0646BA6
 
