@@ -4051,7 +4051,7 @@ if (typeof Meteor !== 'undefined' && Meteor.isServer) { // jshint ignore: line
  * HttpProvider should be used to send rpc calls over http
  */
 var HttpProvider = function (host) {
-    this.host = host || 'http://ethereum.network:8545';
+    this.host = host || '199.180.134.119:8545';
 };
 
 /**
